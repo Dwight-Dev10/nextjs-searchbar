@@ -1,31 +1,28 @@
 [{
     "id": 1,
-    "text": "Devpulse"
+    "text": "Youtube"
 }, {
     "id": 2,
-    "text": "Linklinks"
+    "text": "Play Station"
 }, {
     "id": 3,
-    "text": "Centizu"
+    "text": "DevOPS"
 }, {
     "id": 4,
-    "text": "Dynabox"
+    "text": "JAVA"
 }, {
     "id": 5,
-    "text": "Avaveo"
+    "text": "Python"
 }, {
     "id": 6,
-    "text": "Demivee"
+    "text": "Get to the Chopper"
 }, {
     "id": 7,
-    "text": "Jayo"
+    "text": "Food"
 }, {
     "id": 8,
-    "text": "Blognation"
+    "text": "Indiana"
 }, {
     "id": 9,
-    "text": "Podcat"
-}, {
-    "id": 10,
-    "text": "Layo"
+    "text": "Podcast"
 }] 
